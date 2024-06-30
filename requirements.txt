@@ -1,0 +1,6 @@
+fastapi==0.111.0
+psycopg2==2.9.9
+tensorflow==2.16.1
+pillow==10.3.0
+opencv-python==4.9.0.80
+scipy==1.13.0

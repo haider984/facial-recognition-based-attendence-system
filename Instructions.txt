@@ -1,0 +1,11 @@
+***Pre-Execution Instructions:***
+
+-Set path of model file (.pb) at line.51 of index.py.
+-Set Postgres Db connection.
+
+
+
+***Execution Instructions:***
+
+-pip install -r requirements.txt
+-uvicorn index:app
